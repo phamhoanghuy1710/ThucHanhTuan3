@@ -1,0 +1,16 @@
+D:\Ki2Nam2\Lap_trinh_win\ThucHanhTuan3\ThucHanhGit\ThucHanhTuan3\ThucHanhTuan3\bin\Debug\net6.0-windows\ThucHanhTuan3.exe
+D:\Ki2Nam2\Lap_trinh_win\ThucHanhTuan3\ThucHanhGit\ThucHanhTuan3\ThucHanhTuan3\bin\Debug\net6.0-windows\ThucHanhTuan3.deps.json
+D:\Ki2Nam2\Lap_trinh_win\ThucHanhTuan3\ThucHanhGit\ThucHanhTuan3\ThucHanhTuan3\bin\Debug\net6.0-windows\ThucHanhTuan3.runtimeconfig.json
+D:\Ki2Nam2\Lap_trinh_win\ThucHanhTuan3\ThucHanhGit\ThucHanhTuan3\ThucHanhTuan3\bin\Debug\net6.0-windows\ThucHanhTuan3.dll
+D:\Ki2Nam2\Lap_trinh_win\ThucHanhTuan3\ThucHanhGit\ThucHanhTuan3\ThucHanhTuan3\bin\Debug\net6.0-windows\ThucHanhTuan3.pdb
+D:\Ki2Nam2\Lap_trinh_win\ThucHanhTuan3\ThucHanhGit\ThucHanhTuan3\ThucHanhTuan3\obj\Debug\net6.0-windows\ThucHanhTuan3.Form1.resources
+D:\Ki2Nam2\Lap_trinh_win\ThucHanhTuan3\ThucHanhGit\ThucHanhTuan3\ThucHanhTuan3\obj\Debug\net6.0-windows\ThucHanhTuan3.csproj.GenerateResource.cache
+D:\Ki2Nam2\Lap_trinh_win\ThucHanhTuan3\ThucHanhGit\ThucHanhTuan3\ThucHanhTuan3\obj\Debug\net6.0-windows\ThucHanhTuan3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki2Nam2\Lap_trinh_win\ThucHanhTuan3\ThucHanhGit\ThucHanhTuan3\ThucHanhTuan3\obj\Debug\net6.0-windows\ThucHanhTuan3.AssemblyInfoInputs.cache
+D:\Ki2Nam2\Lap_trinh_win\ThucHanhTuan3\ThucHanhGit\ThucHanhTuan3\ThucHanhTuan3\obj\Debug\net6.0-windows\ThucHanhTuan3.AssemblyInfo.cs
+D:\Ki2Nam2\Lap_trinh_win\ThucHanhTuan3\ThucHanhGit\ThucHanhTuan3\ThucHanhTuan3\obj\Debug\net6.0-windows\ThucHanhTuan3.csproj.CoreCompileInputs.cache
+D:\Ki2Nam2\Lap_trinh_win\ThucHanhTuan3\ThucHanhGit\ThucHanhTuan3\ThucHanhTuan3\obj\Debug\net6.0-windows\ThucHanhTuan3.dll
+D:\Ki2Nam2\Lap_trinh_win\ThucHanhTuan3\ThucHanhGit\ThucHanhTuan3\ThucHanhTuan3\obj\Debug\net6.0-windows\refint\ThucHanhTuan3.dll
+D:\Ki2Nam2\Lap_trinh_win\ThucHanhTuan3\ThucHanhGit\ThucHanhTuan3\ThucHanhTuan3\obj\Debug\net6.0-windows\ThucHanhTuan3.pdb
+D:\Ki2Nam2\Lap_trinh_win\ThucHanhTuan3\ThucHanhGit\ThucHanhTuan3\ThucHanhTuan3\obj\Debug\net6.0-windows\ThucHanhTuan3.genruntimeconfig.cache
+D:\Ki2Nam2\Lap_trinh_win\ThucHanhTuan3\ThucHanhGit\ThucHanhTuan3\ThucHanhTuan3\obj\Debug\net6.0-windows\ref\ThucHanhTuan3.dll
